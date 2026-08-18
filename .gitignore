@@ -1,0 +1,11 @@
+# Originais das fotos: 210 MB que nunca são servidos. O que o site usa está
+# em assets/, já cortado e comprimido por _work/crop.ps1 e _work/export.ps1.
+Fotos/
+
+# Configuração local do editor/assistente.
+.claude/
+
+# Sistema operacional.
+Thumbs.db
+desktop.ini
+.DS_Store
